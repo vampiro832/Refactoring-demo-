@@ -1,4 +1,4 @@
-#  Hori refactoring-demo-
+#  Horisin Refactoring-Demo-
 
 ## Descriptions
 
